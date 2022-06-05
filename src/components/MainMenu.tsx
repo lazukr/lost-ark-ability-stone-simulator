@@ -75,7 +75,7 @@ export const MainMenu = ({
                         ))}
                     </Box>                  
                     <Button 
-                        href="https://github.com/lazukr/lost-ark-stone-simulator" 
+                        href="https://github.com/lazukr/lost-ark-ability-stone-simulator" 
                         startIcon={<GitHubIcon/>} 
                         variant="outlined" 
                         sx={{ my: 1, mx: 1.5 }}
