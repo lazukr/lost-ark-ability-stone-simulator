@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/lost-ark-ability-stone-simulator/static/js/main.a7a050a7.js",
+    "main.js": "/lost-ark-ability-stone-simulator/static/js/main.5a4824ac.js",
     "static/js/787.8c07c4fc.chunk.js": "/lost-ark-ability-stone-simulator/static/js/787.8c07c4fc.chunk.js",
     "index.html": "/lost-ark-ability-stone-simulator/index.html",
-    "main.a7a050a7.js.map": "/lost-ark-ability-stone-simulator/static/js/main.a7a050a7.js.map",
+    "main.5a4824ac.js.map": "/lost-ark-ability-stone-simulator/static/js/main.5a4824ac.js.map",
     "787.8c07c4fc.chunk.js.map": "/lost-ark-ability-stone-simulator/static/js/787.8c07c4fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a7a050a7.js"
+    "static/js/main.5a4824ac.js"
   ]
 }
